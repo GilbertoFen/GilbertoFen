@@ -8,7 +8,7 @@ I like to learn new things to create new projects, both personal and collaborati
 
 <h3>Social Networks</h3>
 <p align="center">
-<a href="[https://linkedin.com/in/](https://www.linkedin.com/in/%C3%A1valos-villalobos-luis-gilberto-90077b344/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="40" width="40" /></a>&nbsp;
+<a href="[https://linkedin.com/in/](https://www.linkedin.com/in/%C3%A1valos-villalobos-luis-gilberto-90077b344/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="[apoorvtyagi](https://www.linkedin.com/in/%C3%A1valos-villalobos-luis-gilberto-90077b344/)" height="40" width="40" /></a>&nbsp;
 
 </p>
 
