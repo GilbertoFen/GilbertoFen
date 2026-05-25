@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gil :) </h1>
+v<h1 align="center">Hi, I'm Gil </h1>
 <h2>About me</h2>
 <p>My name is Luis Gilberto Avalos Villalobos, i am a student of "Matematicas aplicadas y computacion" in the "Universidad Nacional Autonoma de México".
 I like to learn new things to create new projects, both personal and collaborative. I am an efficient, friendly person who likes to work in a team.</p>
