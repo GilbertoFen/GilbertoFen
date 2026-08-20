@@ -36,6 +36,14 @@ Estudiante de **Matemáticas Aplicadas y Computación** en la **Universidad Naci
 
 ### Proyectos destacados
 
+**[PUMAIA](https://github.com/GilbertoFen/Api-de-Open-food-facts-Abierta](https://github.com/GilbertoFen/PUMAIA )**
+Aplicación Web para estudiantes que los ayuda y orienta a encontrar sus fortalezas basado en su perfil académico, realizada por y para alumnos.
+`NEST.JS` `NEXTJS` `API de Gemini` `API de Gemini` `Supabase` `Vercel` `Render` `FastAPI` `TypeScript`
+
+**[Aplicación de Apuestas deportivas](https://github.com/GilbertoFen/API-SpringBoot](https://github.com/ChinchyPear821/Tibio.mac )**.
+Aplicación web Full-Stack de simulación de apuestas deportivas con registro de usuarios y eventos en tiempo real.
+`express` `JavaScript` `nodes.js` `Bootstrap` `SQLite` `Render`
+
 **[Aplicación de Métodos Numéricos](https://github.com/GilbertoFen/Gestion-Usuarios](https://github.com/GilbertoFen/App-Metodos )**
 Sistema que realiza métodos numéricos para resolver distintos sistemas de ecuaciones desarrollada en python con PyQT6.
 `Python` `PyQT6`
@@ -44,15 +52,8 @@ Sistema que realiza métodos numéricos para resolver distintos sistemas de ecua
 Juego clásico de Snake implementado en C con la librería Graphics.
 `C`
 
-**[Aplicación de Apuestas deportivas](https://github.com/GilbertoFen/API-SpringBoot](https://github.com/ChinchyPear821/Tibio.mac )**.
-Aplicación web Full-Stack de simulación de apuestas deportivas con registro de usuarios y eventos en tiempo real.
-`express` `JavaScript` `nodes.js` `Bootstrap`
 
-**[PUMAIA](https://github.com/GilbertoFen/Api-de-Open-food-facts-Abierta](https://github.com/GilbertoFen/PUMAIA )**
-Aplicación Web para estudiantes que los ayuda y orienta a encontrar sus fortalezas basado en su perfil académico, realizada por y para alumnos.
-`NEST.JS` `NEXTJS` `API de Gemini` `API de Gemini`
-
-### 📫 Contacto
+### Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gilberto-avalos)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisgiav87@gmail.com)
