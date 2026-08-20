@@ -1,10 +1,10 @@
-# Hola, soy Gil 👋
+# Hola, soy Gil 
 
 Estudiante de **Matemáticas Aplicadas y Computación** en la **Universidad Nacional Autónoma de México (UNAM)**. Desarrollador full-stack con experiencia en automatización de pruebas (QA), desarrollo de APIs y aplicaciones web. Me gusta aprender tecnologías nuevas rápido y aplicarlas en proyectos reales, personales y colaborativos.
 
 ---
 
-### 🧰 Lenguajes y tecnologías
+### Lenguajes y tecnologías
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,38 +34,23 @@ Estudiante de **Matemáticas Aplicadas y Computación** en la **Universidad Naci
 
 ---
 
-### 🚀 Proyectos destacados
+### Proyectos destacados
 
-**[Gestion-Usuarios](https://github.com/GilbertoFen/Gestion-Usuarios)**
-Sistema de gestión de usuarios.
+**[Aplicación de Métodos Numéricos](https://github.com/GilbertoFen/Gestion-Usuarios](https://github.com/GilbertoFen/App-Metodos )**
+Sistema que realiza métodos numéricos para resolver distintos sistemas de ecuaciones desarrollada en python con PyQT6.
+`Python` `PyQT6`
 
 **[Juego-Snake-en-C](https://github.com/GilbertoFen/Juego-Snake-en-C)**
-Juego clásico de Snake implementado en C.
+Juego clásico de Snake implementado en C con la librería Graphics.
 `C`
 
-**[API-SpringBoot](https://github.com/GilbertoFen/API-SpringBoot)**
-API REST construida con Spring Boot.
-`Java` `Spring Boot`
+**[Aplicación de Apuestas deportivas](https://github.com/GilbertoFen/API-SpringBoot](https://github.com/ChinchyPear821/Tibio.mac )**.
+Aplicación web Full-Stack de simulación de apuestas deportivas con registro de usuarios y eventos en tiempo real.
+`express` `JavaScript` `nodes.js` `Bootstrap`
 
-**[Api-de-Open-food-facts-Abierta](https://github.com/GilbertoFen/Api-de-Open-food-facts-Abierta)**
-Integración con la API abierta de Open Food Facts.
-
-> Edita esta sección con la descripción real de cada repo (puedes copiar la primera línea del README de cada uno).
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GilbertoFen&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GilbertoFen&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GilbertoFen&theme=tokyonight" />
-</p>
-
----
+**[PUMAIA](https://github.com/GilbertoFen/Api-de-Open-food-facts-Abierta](https://github.com/GilbertoFen/PUMAIA )**
+Aplicación Web para estudiantes que los ayuda y orienta a encontrar sus fortalezas basado en su perfil académico, realizada por y para alumnos.
+`NEST.JS` `NEXTJS` `API de Gemini` `API de Gemini`
 
 ### 📫 Contacto
 
@@ -74,4 +59,4 @@ Integración con la API abierta de Open Food Facts.
 
 ---
 
-<p align="center"><i>Gracias por visitar mi perfil ✨</i></p>
+<p align="center"><i>Gracias por visitar mi perfil</i></p>
